@@ -3,23 +3,19 @@
 
 Exploring intricate digital layouts on Cadence Virtuoso platform, this repository showcases my designs crafted with precision using the 45nm Process Design Kit (PDK). Dive into the world of innovative layouts, where form meets function in the realm of digital design excellence.
 
-
-
-
-## Badges
 ![Category VLSI](https://img.shields.io/badge/Category-VLSI-blue.svg) 
 
 ![Version 01](https://img.shields.io/badge/Version-01-green.svg)
 
 
-## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+## Library
+Here is the listed libary which contains the design cells. 
+| No. | Cell   | Description                                                             |
+|-----|----------------|------------------------------------------------------------------- |
+| 01 |  INVTX1 |![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
+| 02 |  Example Color |![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
+| 03 |  Example Color |![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
+| 04 |  Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
 ## Appendix
